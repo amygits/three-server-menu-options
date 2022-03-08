@@ -1,4 +1,4 @@
-# Assignment 4 Activity 1
+# 3 Server w Menu Options
 ## Description
 This application has 3 different run methods with different server implementations.  The base program allows users to add strings to a list using JSON objects and then gives them options to remove a string, reverse a string, display the list, or quit.  Multiple users joining the same client will get access to the same list
 
